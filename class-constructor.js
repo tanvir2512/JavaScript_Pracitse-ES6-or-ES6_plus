@@ -21,4 +21,4 @@ let newbook=new books("Tanvir", "Wiley", "490Tk"); ///creating a books type obje
 console.log(newbook)
 let newbook1=new books("Shopno", "IEEE", "590Tk");
 console.log(newbook1);
-console.log(newbook1.price);//if we want to see specific property
+console.log(`Price of the 2nd book is ${newbook1.price}`);//if we want to see specific property
