@@ -16,7 +16,8 @@ class books{
 
     }
 }
-let newbook=new books("Tanvir", "Wiley", "490Tk"); ///creating a books type object
+//usng constructor //constructor(name) initializes the object's name property.
+let newbook=new books("Tanvir", "Wiley", "490Tk"); ///creating a books type object [special method that initializes an object created from that class.]
 console.log(newbook)
 let newbook1=new books("Shopno", "IEEE", "590Tk");
 console.log(newbook1);
