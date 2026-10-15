@@ -22,6 +22,8 @@ add("Blueberries");
 console.log(fruits)
 
 ///practise 
+
+///=======================================\\\
 console.log("Play with differnet array");
 let users=["Tanvir","Jawad","Chowdhury"]
 
